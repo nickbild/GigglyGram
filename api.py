@@ -35,6 +35,7 @@ class ProcessMessage(Resource):
 class ProcessImage(Resource):
     def get(self):
         req = request.args.get('t')
+        req = "Make a funny meme in response to this SMS message: {0}".format(req)
 
         cmd = """ docker run --rm -it -v /home/nick/working/texty:/data sd2 bash -c "cd / && python3 sd2.py '{0}' " """.format(req)
         os.system(cmd)
