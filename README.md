@@ -1,6 +1,6 @@
 # GigglyGram
 
-Details coming soon!
+You're not funny, but AI is! GigglyGram uses generative AI to turn you into a witty conversationalist with clever comebacks and amusing memes.
 
 ## How It Works
 
