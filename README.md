@@ -1,6 +1,6 @@
 # GigglyGram
 
-You're not funny, but AI is! GigglyGram uses generative AI to turn you into a witty conversationalist with clever comebacks and amusing memes.
+You're not funny, but AI is! GigglyGram is a messaging app that uses generative AI to turn you into a witty conversationalist with clever comebacks and amusing memes.
 
 ![](https://raw.githubusercontent.com/nickbild/GigglyGram/main/media/logo_sm.jpg)
 
