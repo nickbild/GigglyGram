@@ -10,7 +10,7 @@ Details coming soon!
 
 ## Media
 
-Check out the [demonstration video](https://www.youtube.com/watch?v=Gg9sr_CIChY)
+Check out the [demonstration video](https://www.youtube.com/watch?v=Gg9sr_CIChY).
 
 A message was received:
 
