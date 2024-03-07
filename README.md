@@ -6,7 +6,11 @@ You're not funny, but AI is! GigglyGram is a messaging app that uses generative 
 
 ## How It Works
 
-Details coming soon!
+I built a quick-and-dirty proof of concept Android messaging app with the help of the MIT App Inventor. This app can receive text messages, and take some actions based upon them.
+
+There is a "Make Me Funny" button that feeds the text of the most recently received message into an open source Large Language Model (LLM), along with some instructions telling it to provide a funny response to the message. The LLM is packaged up as a [llamafile](https://github.com/mozilla-Ocho/llamafile), and I specifically used the seven billion parameter Mistral-7B-Instruct model. This runs on an NVIDIA Jetson AGX Xavier Development Kit, and is accessed by a simple [web API](https://github.com/nickbild/GigglyGram/blob/main/api.py) written in Python.
+
+There is also a "Meme" button that leverages the same [web API](https://github.com/nickbild/GigglyGram/blob/main/api.py) to send a prompt to a Stable Diffusion 2.1 image generation model running on the Jetson. The prompt asks the model to generate a funny meme based on the latest text message received.
 
 ## Media
 
