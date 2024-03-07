@@ -6,6 +6,8 @@ You're not funny, but AI is! GigglyGram uses generative AI to turn you into a wi
 
 ## How It Works
 
+Details coming soon!
+
 ## Media
 
 A message was received:
