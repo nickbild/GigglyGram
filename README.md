@@ -10,6 +10,8 @@ Details coming soon!
 
 ## Media
 
+Check out the [demonstration video](https://www.youtube.com/watch?v=Gg9sr_CIChY)
+
 A message was received:
 
 ![](https://raw.githubusercontent.com/nickbild/GigglyGram/main/media/screen1.jpg)
