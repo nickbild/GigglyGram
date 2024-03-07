@@ -12,6 +12,8 @@ There is a "Make Me Funny" button that feeds the text of the most recently recei
 
 There is also a "Meme" button that leverages the same [web API](https://github.com/nickbild/GigglyGram/blob/main/api.py) to send a prompt to a Stable Diffusion 2.1 image generation model running on the Jetson. The prompt asks the model to generate a funny meme based on the latest text message received.
 
+![](https://raw.githubusercontent.com/nickbild/GigglyGram/main/media/chart.jpg)
+
 ## Media
 
 Check out the [demonstration video](https://www.youtube.com/watch?v=Gg9sr_CIChY).
